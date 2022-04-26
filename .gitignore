@@ -6,4 +6,4 @@ bin/
 build/
 lib/
 
-*.tres
+default_env.tres
